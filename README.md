@@ -20,8 +20,7 @@ I did the following features and added unit tests.
 
 ## Mobile View
 
-![IMG_C8609303FF52-1](https://user-images.githubusercontent.com/29774579/222989966-3423762a-eaed-4fb8-ac78-c09ea0842906.jpeg)
-
+<img height="300" alt="Screenshot 2023-03-05 at 11 23 39 PM" src="https://user-images.githubusercontent.com/29774579/222989966-3423762a-eaed-4fb8-ac78-c09ea0842906.jpeg">
 
 ## Desktop View
 
