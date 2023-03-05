@@ -1,5 +1,8 @@
 # Front End Programming Challenge
 
+## Live Demo
+https://frontendtest-jms9.vercel.app
+
 ### To start
 `yarn install`
 
@@ -18,6 +21,9 @@ I did the following features and added unit tests.
 6. Keep track of which squares are clicked and the order in which they're clicked.
 7. Display the information collected from step 6 in the sidebar.
 
+### Live Demo 
+https://frontendtest-jms9.vercel.app
+
 ## Mobile View
 
 <img height="700" alt="Screenshot 2023-03-05 at 11 23 39 PM" src="https://user-images.githubusercontent.com/29774579/222989966-3423762a-eaed-4fb8-ac78-c09ea0842906.jpeg">
@@ -25,3 +31,7 @@ I did the following features and added unit tests.
 ## Desktop View
 
 <img width="1517" alt="Screenshot 2023-03-05 at 11 23 39 PM" src="https://user-images.githubusercontent.com/29774579/222990001-63e621cc-1f75-495d-941b-05945787f495.png">
+
+
+### Live Demo
+https://frontendtest-jms9.vercel.app
