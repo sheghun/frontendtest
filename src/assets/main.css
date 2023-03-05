@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --first-pattern: #F5E6BE;
+    --second-pattern: #664339;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+}
